@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asem</h1>
 <h3 align="center">i am a machine learning and computer vision engineer and computer science student</h3>
 
+- 🌱 I’m currently learning **computer vision**
+
+- 👨‍💻 All of my projects are available at [https://github.com/asasemahmed?tab=repositories](https://github.com/asasemahmed?tab=repositories)
+
 - 📫 How to reach me **asasem547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
