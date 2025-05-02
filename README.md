@@ -5,12 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   🌍 Based in Egypt<br>
-  🧠 Founder of <strong>Murashah</strong> and <strong>ByteLogs</strong>—AI-focused companies delivering tailored solutions in NLP, CV, and custom software.<br>
-  🔭 Currently working on multiple AI projects, including computer vision systems, LLM apps, and real-time analytics platforms like <strong>Hutaf</strong> (football AI analysis).<br>
-  📚 Passionate about deep learning, generative models, and building tools that make AI accessible and ethical.<br>
-  🤝 Open to collaborations on cutting-edge AI, LLM, and computer vision products.<br>
-  💬 Ask me about Python, full-stack AI systems, FastAPI, React, TensorFlow, and building end-to-end solutions.<br>
-  ⚡ Fun fact: I blend creativity with tech—coffee, football, and innovation fuel my day!
+  🔭 Currently working on multiple AI projects, including computer vision systems, LLM apps, and real-time analytics platforms like <strong>Hutaf</strong> (AI analysis).<br>
 </div>
 
 ---
