@@ -38,7 +38,7 @@
 ## 📊 Most Used Languages
 <p align="center">
   <a href="https://github.com/asasemahmed/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemahmed-dev&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asasemahmed&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
   </a>
 </p>
 
