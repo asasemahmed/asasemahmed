@@ -9,24 +9,84 @@
 </div>
 
 ---
+## 💼 Projects Overview
 
-💼 **Projects Overview**  
+### 🎓 EduNassr – Study Abroad Application Platform
+- Built an end-to-end platform that helps students discover suitable universities, manage study-abroad applications, track progress, and automate admission workflows with AI-assisted document generation.
+- Designed intelligent matching systems for universities and academic programs based on student profiles.
+- Implemented secure document management and workflow tracking dashboards.
 
-1. **🏟️ Hutaf - Real-Time Football AI System**  
-   - **Description**: Real-time match analysis using computer vision and deep learning to detect fouls, predict outcomes, and visualize plays.  
-   - **Tech**: YOLO, OpenCV, Python, React, FastAPI, WebSockets.
+**Tech:** FastAPI, React, PostgreSQL, AI Matching Systems, Document Processing
 
-2. **🧠 Resume Builder AI (Murashah)**  
-   - **Description**: AI-powered system that helps users generate resumes, evaluate their input, and get personalized feedback with visual and audio AI components.  
-   - **Tech**: OpenAI API, FastAPI, Gradio, Generative Audio/Image Models.
+---
 
-3. **📦 NLP Pipeline on Amazon Reviews**  
-   - **Description**: Built a complete NLP pipeline for sentiment classification, clustering, and summarization using Transformer models.  
-   - **Tech**: DistilBERT, BART, KMeans, Hugging Face, Gradio.
+### 🏫 MadrasaPro – Educational Management System
+- Developed a school management platform for handling student records, academic workflows, attendance tracking, communication systems, and administrative reporting.
+- Built role-based dashboards for administrators, teachers, and students.
+- Optimized backend architecture for scalability and operational efficiency.
 
-4. **🖼️ GAN for Hand Pose Generation**  
-   - **Description**: Created a custom GAN model that generates realistic hand poses to assist in data augmentation and training.  
-   - **Tech**: TensorFlow, Keras, Custom Architectures.
+**Tech:** FastAPI / Laravel, MySQL, REST APIs, Dashboard Systems
+
+---
+
+### 📩 Mailova – Email Automation Platform
+- Engineered a scalable email automation platform for transactional and marketing communication workflows.
+- Built campaign orchestration, delivery tracking, analytics dashboards, and external email service integrations.
+- Designed backend systems for template management and event-driven email processing.
+
+**Tech:** FastAPI, Redis, PostgreSQL, Webhooks, Email APIs
+
+---
+
+### 📄 CVLogs – AI Resume Analysis Platform
+- Built an AI-powered resume analysis system that evaluates CV quality, ATS compatibility, and skill gaps.
+- Developed document parsing pipelines and recommendation systems for resume optimization.
+- Automated structured career insights generation using NLP workflows.
+
+**Tech:** Python, NLP, FastAPI, OpenAI API, Document Processing
+
+---
+
+### ⚖️ Mawatheq – Legal & Digital Documentation Platform
+- Contributed to backend development for a platform focused on secure legal documentation and digital workflow automation.
+- Developed APIs for document lifecycle management and secure processing.
+- Improved system reliability and backend performance.
+
+**Tech:** Backend Development, REST APIs, Database Design, Secure Document Processing
+
+---
+
+### 🏟️ Hutaf – Real-Time Football AI System
+- Developed a real-time football match analysis system using computer vision and deep learning.
+- Built models for event detection, foul recognition, and match insights visualization.
+- Integrated live-stream processing pipelines for real-time analysis.
+
+**Tech:** YOLO, OpenCV, Python, React, FastAPI, WebSockets
+
+---
+
+### 🧠 Resume Builder AI (Murashah)
+- Built an AI-powered resume generation platform with evaluation and personalized feedback capabilities.
+- Integrated generative AI for content enhancement and multimodal interaction features.
+- Designed backend workflows for intelligent resume optimization.
+
+**Tech:** OpenAI API, FastAPI, Gradio, Generative AI Models
+
+---
+
+### 📦 NLP Pipeline on Amazon Reviews
+- Built a complete NLP pipeline for sentiment classification, clustering, and automated summarization of large-scale review datasets.
+- Implemented transformer-based models for high-quality text understanding and insights extraction.
+
+**Tech:** DistilBERT, BART, KMeans, Hugging Face, Gradio
+
+---
+
+### 🖼️ GAN for Hand Pose Generation
+- Developed a custom GAN architecture for generating realistic hand pose images.
+- Applied the generated data for augmentation to improve downstream computer vision model training.
+
+**Tech:** TensorFlow, Keras, Custom GAN Architectures
 
 ---
 
