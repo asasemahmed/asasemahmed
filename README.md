@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/asemabdallah/">
     <img src="https://img.shields.io/badge/LinkedIn-Asem%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:asemahmed.dev@gmail.com">
+  <a href="mailto:assem.marwad@gmail.com">
     <img src="https://img.shields.io/badge/Email-asemahmed.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.kaggle.com/asemabdullah">
