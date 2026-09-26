@@ -105,6 +105,27 @@ I'm currently doing my **M.Eng. in Applied Artificial Intelligence** at the **De
 
 ---
 
+## 🌍 Open Source
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/asasemahmed/MasrKit"><img src="https://github.com/asasemahmed.png" width="56" alt="MasrKit"/></a>
+      <h3><a href="https://github.com/asasemahmed/MasrKit">MasrKit</a></h3>
+      <img src="https://img.shields.io/badge/Creator-10B981?style=flat-square&logo=github&logoColor=white" alt="Creator"/>
+      <p>Skills for AI coding agents to build products that feel truly Egyptian.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/CopilotKit/OpenMuse"><img src="https://github.com/CopilotKit.png" width="56" alt="CopilotKit"/></a>
+      <h3><a href="https://github.com/CopilotKit/OpenMuse">OpenMuse</a></h3>
+      <img src="https://img.shields.io/badge/Contributor-6366F1?style=flat-square&logo=github&logoColor=white" alt="Contributor"/>
+      <p>CopilotKit's open-source personal agent with a browser, terminal and files.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -183,36 +204,6 @@ I'm currently doing my **M.Eng. in Applied Artificial Intelligence** at the **De
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Vector_Search-4169E1?style=flat-square" alt="Vector Search"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌍 Open Source & Contributions
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asasemahmed/MasrKit">MasrKit</a></h3>
-      <p><b>Creator & Maintainer</b></p>
-      <p>An open-source skill library for AI coding agents that helps them build digital products that feel truly Egyptian. It covers Arabic UX, Egyptian content, RTL design, frontend, backend, local integrations and product best practices.</p>
-      <p>Works with Claude Code, Codex, Gemini CLI, Cursor and any agent that can load instruction files.</p>
-      <a href="https://github.com/asasemahmed/MasrKit"><img src="https://img.shields.io/github/stars/asasemahmed/MasrKit?style=flat-square&label=Stars" alt="MasrKit stars"/></a>
-      <img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square" alt="AI Agents"/>
-      <img src="https://img.shields.io/badge/Arabic_UX-0F766E?style=flat-square" alt="Arabic UX"/>
-      <img src="https://img.shields.io/badge/RTL-1F6FEB?style=flat-square" alt="RTL"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CopilotKit/openmuse">OpenMuse</a> by CopilotKit</h3>
-      <p><b>Contributor</b></p>
-      <p>OpenMuse is an open-source personal agent with its own browser, terminal and files, built with CopilotKit and AG-UI.</p>
-      <ul>
-        <li><a href="https://github.com/CopilotKit/openmuse/pull/54">#54</a>: Kept failed turns in saved history from breaking the chat</li>
-      </ul>
-      <img src="https://img.shields.io/badge/CopilotKit-6366F1?style=flat-square" alt="CopilotKit"/>
-      <img src="https://img.shields.io/badge/AG--UI-20232A?style=flat-square" alt="AG-UI"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
   </tr>
 </table>
