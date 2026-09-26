@@ -32,22 +32,18 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <h3>👋 Hi! I'm Asem — an AI Engineer turning research into production systems.</h3>
-  <p>Currently pursuing my <b>M.Eng. in Applied Artificial Intelligence</b> at <b>Deggendorf Institute of Technology (DIT)</b> in Germany 🇩🇪.</p>
-</div>
+Hi, I'm Asem. I'm an AI Engineer who turns research into production systems.
 
-<br>
+I'm currently doing my **M.Eng. in Applied Artificial Intelligence** at the **Deggendorf Institute of Technology (DIT)** in Germany. My focus is taking AI beyond notebooks and into reliable, well-evaluated software that people actually use.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Academic & Background</h4>
+      <h4>Background</h4>
       <ul>
-        <li>🏛️ <b>Institution:</b> Deggendorf Institute of Technology (DIT), Germany</li>
-        <li>📚 <b>Program:</b> Master of Engineering (M.Eng.) in Applied AI</li>
-        <li>🎯 <b>Goal:</b> Bridging Deep Learning research with scalable software systems</li>
-        <li>💡 <b>Philosophy:</b> Taking AI <i>beyond notebooks</i> into reliable, evaluated production</li>
+        <li>M.Eng. in Applied AI at DIT, Germany</li>
+        <li>Bridging deep learning research with scalable software</li>
+        <li>Building AI that is tested, evaluated and production ready</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -57,12 +53,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & RAG Systems</h4>
+      <h4>Agentic AI & RAG</h4>
       <ul>
-        <li>🔄 <b>Agent Workflows:</b> Multi-agent state machines, routing & tool calling with <b>LangGraph</b></li>
-        <li>🔍 <b>Knowledge Retrieval:</b> Production RAG, Graph RAG, and hybrid search with <b>pgvector</b></li>
-        <li>🛡️ <b>Reliability:</b> Context grounding, hallucination prevention & LLM evaluation</li>
-        <li>📊 <b>Structured Output:</b> Pydantic validation, schema enforcement & function calling</li>
+        <li>Multi-agent workflows and tool calling with LangGraph</li>
+        <li>Production RAG, Graph RAG and hybrid search with pgvector</li>
+        <li>Grounding, structured output and LLM evaluation</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -74,12 +69,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>👁️ Computer Vision & Deep Learning</h4>
+      <h4>Computer Vision</h4>
       <ul>
-        <li>🍄 <b>Multi-View Learning:</b> Multi-perspective visual feature fusion & attention mechanisms</li>
-        <li>🧠 <b>CNNs & Backbones:</b> ResNet-18, Transfer Learning, custom feature extractors</li>
-        <li>⚡ <b>Real-Time Vision:</b> Object detection, OpenCV video processing & tracking</li>
-        <li>📈 <b>Evaluation:</b> Confusion matrices, loss dynamics & visual error analysis</li>
+        <li>Multi-view learning with attention-based fusion</li>
+        <li>CNN backbones and transfer learning</li>
+        <li>Real-time detection and OpenCV pipelines</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -89,12 +83,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Production Engineering & Data</h4>
+      <h4>Production Engineering</h4>
       <ul>
-        <li>🚀 <b>High-Speed APIs:</b> Asynchronous REST endpoints & WebSocket streams via <b>FastAPI</b></li>
-        <li>🗄️ <b>Databases:</b> PostgreSQL database design, indexing, and vector similarity</li>
-        <li>⚡ <b>Queues & Caching:</b> Redis message brokering, asynchronous task queues</li>
-        <li>🐳 <b>DevOps:</b> Docker containerization, Git workflows & Linux environments</li>
+        <li>Async APIs and WebSocket streams with FastAPI</li>
+        <li>PostgreSQL design, Redis queues and caching</li>
+        <li>Docker, Git and Linux workflows</li>
       </ul>
       <div align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -106,12 +99,9 @@
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <b>🔄 End-to-End Delivery Lifecycle</b><br>
-  <code>🔬 Research & Data</code> ➔ <code>🧠 Model & Attention Design</code> ➔ <code>🤖 Agents & RAG</code> ➔ <code>⚡ FastAPI & Redis</code> ➔ <code>🚀 Production Deploy</code>
-</div>
+<p align="center">
+  <code>Research</code> → <code>Modeling</code> → <code>Agents & RAG</code> → <code>APIs</code> → <code>Production</code>
+</p>
 
 ---
 
@@ -135,7 +125,7 @@
       <img src="https://img.shields.io/badge/Computer_Vision-5856D6?style=flat-square" alt="CV"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 CVLogs — Autonomous AI Resume Intelligence</h3>
+      <h3>📄 CVLogs: Autonomous AI Resume Intelligence</h3>
       <p>An intelligent resume analysis and optimization system utilizing <b>autonomous agent workflows</b> for targeted rubric scoring, ATS alignment, and version-controlled change recommendations.</p>
       <ul>
         <li><b>Agentic Loops:</b> LangGraph multi-agent critique cycle with structured JSON validation.</li>
@@ -153,7 +143,7 @@
   <!-- Row 2: Mailova & Muhtaref Culture -->
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Mailova — High-Throughput Email Orchestration Engine</h3>
+      <h3>⚡ Mailova: High-Throughput Email Orchestration Engine</h3>
       <p>A scalable, asynchronous email orchestration and workflow automation platform engineered for high-volume transactional delivery, scheduling, and reliable queue processing.</p>
       <ul>
         <li><b>Async Architecture:</b> Redis message brokering with dedicated task workers.</li>
@@ -167,7 +157,7 @@
       <img src="https://img.shields.io/badge/Async_Queue-4B5563?style=flat-square" alt="Async"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Muhtaref Culture — Enterprise Cultural IP & Knowledge Platform</h3>
+      <h3>🏛️ Muhtaref Culture: Enterprise Cultural IP & Knowledge Platform</h3>
       <p>Enterprise AI platform for cultural contracts, intellectual property governance, and grounded domain-knowledge retrieval with specialized Arabic LLM workflows.</p>
       <ul>
         <li><b>Knowledge Engine:</b> Production RAG with pgvector hybrid search and citation verification.</li>
@@ -185,7 +175,7 @@
   <!-- Row 3: EduNassr -->
   <tr>
     <td colspan="2" valign="top">
-      <h3>🎓 EduNassr — AI-Driven Global Academic Matching Engine</h3>
+      <h3>🎓 EduNassr: AI-Driven Global Academic Matching Engine</h3>
       <p>An AI-assisted international education portal providing multi-criteria semantic matching between student academic profiles and global university degree requirements, streamlining admissions guidance.</p>
       <br>
       <img src="https://img.shields.io/badge/Semantic_Matching-10B981?style=flat-square" alt="Semantic Matching"/>
@@ -193,6 +183,36 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Vector_Search-4169E1?style=flat-square" alt="Vector Search"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌍 Open Source & Contributions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asasemahmed/MasrKit">MasrKit</a></h3>
+      <p><b>Creator & Maintainer</b></p>
+      <p>An open-source skill library for AI coding agents that helps them build digital products that feel truly Egyptian. It covers Arabic UX, Egyptian content, RTL design, frontend, backend, local integrations and product best practices.</p>
+      <p>Works with Claude Code, Codex, Gemini CLI, Cursor and any agent that can load instruction files.</p>
+      <a href="https://github.com/asasemahmed/MasrKit"><img src="https://img.shields.io/github/stars/asasemahmed/MasrKit?style=flat-square&label=Stars" alt="MasrKit stars"/></a>
+      <img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square" alt="AI Agents"/>
+      <img src="https://img.shields.io/badge/Arabic_UX-0F766E?style=flat-square" alt="Arabic UX"/>
+      <img src="https://img.shields.io/badge/RTL-1F6FEB?style=flat-square" alt="RTL"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CopilotKit/openmuse">OpenMuse</a> by CopilotKit</h3>
+      <p><b>Contributor</b></p>
+      <p>OpenMuse is an open-source personal agent with its own browser, terminal and files, built with CopilotKit and AG-UI.</p>
+      <ul>
+        <li><a href="https://github.com/CopilotKit/openmuse/pull/54">#54</a>: Kept failed turns in saved history from breaking the chat</li>
+      </ul>
+      <img src="https://img.shields.io/badge/CopilotKit-6366F1?style=flat-square" alt="CopilotKit"/>
+      <img src="https://img.shields.io/badge/AG--UI-20232A?style=flat-square" alt="AG-UI"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     </td>
   </tr>
 </table>
