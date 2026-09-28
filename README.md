@@ -109,17 +109,39 @@ I'm currently doing my **M.Eng. in Applied Artificial Intelligence** at the **De
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/asasemahmed/MasrKit"><img src="https://github.com/asasemahmed.png" width="56" alt="MasrKit"/></a>
+    <td align="center" colspan="2">
+      <a href="https://github.com/asasemahmed/MasrKit"><img src="https://github.com/asasemahmed.png" width="64" alt="MasrKit"/></a>
       <h3><a href="https://github.com/asasemahmed/MasrKit">MasrKit</a></h3>
       <img src="https://img.shields.io/badge/Creator-10B981?style=flat-square&logo=github&logoColor=white" alt="Creator"/>
       <p>Skills for AI coding agents to build products that feel truly Egyptian.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/CopilotKit/OpenMuse"><img src="https://github.com/CopilotKit.png" width="56" alt="CopilotKit"/></a>
       <h3><a href="https://github.com/CopilotKit/OpenMuse">OpenMuse</a></h3>
       <img src="https://img.shields.io/badge/Contributor-6366F1?style=flat-square&logo=github&logoColor=white" alt="Contributor"/>
       <p>CopilotKit's open-source personal agent with a browser, terminal and files.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/CopilotKit/OpenBot"><img src="https://github.com/CopilotKit.png" width="56" alt="CopilotKit"/></a>
+      <h3><a href="https://github.com/CopilotKit/OpenBot">OpenBot</a></h3>
+      <img src="https://img.shields.io/badge/Contributor-6366F1?style=flat-square&logo=github&logoColor=white" alt="Contributor"/>
+      <p>CopilotKit's open-source AI coworkers, each with a computer of its own.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/cline/cline"><img src="https://github.com/cline.png" width="56" alt="Cline"/></a>
+      <h3><a href="https://github.com/cline/cline">Cline</a></h3>
+      <img src="https://img.shields.io/badge/Contributor-6366F1?style=flat-square&logo=github&logoColor=white" alt="Contributor"/>
+      <p>Autonomous coding agent as an IDE extension, CLI and SDK.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PrefectHQ/fastmcp"><img src="https://github.com/PrefectHQ.png" width="56" alt="FastMCP"/></a>
+      <h3><a href="https://github.com/PrefectHQ/fastmcp">FastMCP</a></h3>
+      <img src="https://img.shields.io/badge/Contributor-6366F1?style=flat-square&logo=github&logoColor=white" alt="Contributor"/>
+      <p>The fast, Pythonic way to build MCP servers and clients.</p>
     </td>
   </tr>
 </table>
